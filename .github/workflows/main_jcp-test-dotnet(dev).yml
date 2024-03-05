@@ -54,4 +54,4 @@ jobs:
           app-name: 'jcp-test-dotnet'
           slot-name: 'dev'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C74E4E8494444EB885ABFAF87A9A0332 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E6079BC5BE4437EA54C64F8FBC8CC78 }}
